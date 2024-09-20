@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ✧ Projeto Dev Sorteio ✧
+# ✧ Dev Sorteio ✧
 <br> <br>
 
 ## ✧ Nesse projeto foi criado um sorteador de números no qual você coloca um valor mínimo e um máximo. Ao clicar em sortear ele irá gerar um valor aleatório entre os dois números inseridos .✧
